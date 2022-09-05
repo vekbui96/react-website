@@ -1,0 +1,8 @@
+/* absolute left-0 bottom-0 w-full */
+
+.shape{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+}

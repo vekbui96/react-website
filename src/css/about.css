@@ -1,0 +1,26 @@
+.aboutTab{
+    visibility: hidden;
+}
+
+.about{
+    padding-top: 80px;
+}
+
+.class1{
+    align-items: center;
+}
+
+.class2{
+    grid-column-start: 6;
+    grid-column-end: 13;
+}
+
+.class3{
+    margin-top: 1.25rem; 
+
+}
+
+.container {
+    align-items: center;
+    padding: "15px";
+}
